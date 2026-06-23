@@ -21,7 +21,8 @@
   "homepage": "https://github.com/Praveen1104/shopping#readme",
   "dependencies": {
     "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongoose": "^9.7.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
